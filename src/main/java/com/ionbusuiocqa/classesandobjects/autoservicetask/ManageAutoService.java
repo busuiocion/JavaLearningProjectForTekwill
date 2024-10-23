@@ -1,7 +1,5 @@
 package com.ionbusuiocqa.classesandobjects.autoservicetask;
 
-import java.sql.SQLOutput;
-
 public class ManageAutoService {
 
     public static void main(String[] args) {
