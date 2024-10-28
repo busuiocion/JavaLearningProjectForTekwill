@@ -54,7 +54,5 @@ public class StatementExamples {
                 System.out.println("Other day");
                 break;
         }
-
-
     }
 }
