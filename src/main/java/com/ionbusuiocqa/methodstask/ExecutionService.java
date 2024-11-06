@@ -3,6 +3,7 @@ package com.ionbusuiocqa.methodstask;
 public class ExecutionService {
 
     public static void main(String[] args) {
+
         // Creează primul obiect Customer și setează proprietățile folosind constructorul
         Customer customer1 = new Customer("Alice", 25, "alice@example.com");
 
